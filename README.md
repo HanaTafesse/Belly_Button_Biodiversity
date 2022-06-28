@@ -1,6 +1,6 @@
 ## Unit 14 Homework: Belly Button Biodiversity
 
-[Belly Button Biodiversity](https://hanatafesse.github.io/Belly_Button_Biodiversity/)
+[hanatafesse.github.io/Belly_Button_Biodiversity](https://hanatafesse.github.io/Belly_Button_Biodiversity/)
 ![Belly Button Biodiversity](/Images/Belly_Button_Biodiversity_full_page.png)
 
 In this assignment, you will build an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
@@ -31,4 +31,4 @@ Complete the following steps:
 
 7. Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
 
-[Belly Button Biodiversity](https://github.com/HanaTafesse/Belly_Button_Biodiversity)
+[Belly Button Biodiversity GitHub Page](https://github.com/HanaTafesse/Belly_Button_Biodiversity)
